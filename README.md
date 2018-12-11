@@ -1,1 +1,1 @@
-# Polinomio con scheme
+Ejecicios con polinomios utilizando scheme
